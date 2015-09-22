@@ -65,8 +65,8 @@ In the end, after thorough reading, <a href="https://timdettmers.wordpress.com/2
 * RAM: 64GB DDR4 Kingston 2133Mhz (8x8GB)
 * CPU: Intel(Haswell-e) Core <a href="http://ark.intel.com/products/82931/Intel-Core-i7-5930K-Processor-15M-Cache-up-to-3_70-GHz">i7 5930K</a> (6 Core 3.5GHz)
 * GPUs: 3 x NVIDIA GTX TITAN-X 12GB
-* SSD: 3 X 3TB WD Red in RAID5 configuration
-* HDD: 2 X 500GB SSD Samsung EVO 850
+* HDD: 3 X 3TB WD Red in RAID5 configuration
+* SSD: 2 X 500GB SSD Samsung EVO 850
 * PSU: <a href="http://www.corsair.com/en/ax1500i-digital-atx-power-supply-1500-watt-fully-modular-psu">Corsair AX1500i</a> (1500Watt) 80 Plus Titanium (94% energy efficiency)
 * Cooling: Custom (soft piped) Water Cooling for both the CPU and GPUs: a refilling hole drilled in the top of the chassis, and transparent reservoir in the front (see pictures below)
 
