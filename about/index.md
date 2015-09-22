@@ -10,7 +10,7 @@ comments: true
   #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Roelof Pieters works as a consultant for my own company <a href="http://www.graph-technologies.com/">Graph Technologies</a>, as well as <a href="http://www.csc.kth.se/~roelof/">PhD student in Deep Learning</a> at <a href="https://www.kth.se/en">KTH Institute of Technology</a> in Stockholm, Sweden.
+Roelof Pieters runs his own machine learning consultantancy <a href="http://www.graph-technologies.com/">Graph Technologies</a>, as well as <a href="http://www.csc.kth.se/~roelof/">PhD student in Deep Learning</a> at <a href="https://www.kth.se/en">KTH Institute of Technology</a> in Stockholm, Sweden.
 
 Other things I enjoy doing:
 
