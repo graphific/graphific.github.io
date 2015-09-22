@@ -5,10 +5,10 @@ modified:
 categories: posts
 excerpt: Some pointers on the slippery path towards building your own machine for Deep Learning
 tags: [diy, deep learning, hardware, graphic cards]
+comments: true
 image:
   feature:
 date: 2015-09-21T15:19:36+02:00
-comments: true
 ---
 
 ![DL System]({{ site.url }}/images/dlpc/machine_sm.jpg)
