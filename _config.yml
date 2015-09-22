@@ -4,6 +4,7 @@ title:            Machine Ponderings
 locale:           en_US
 url:              http://graphific.github.io
 disqus-shortname: machineponderings
+disqus_developer: 1
 
 # Jekyll configuration
 
