@@ -3,7 +3,7 @@
 title:            Machine Ponderings
 locale:           en_US
 url:              http://graphific.github.io
-
+disqus-shortname: machineponderings
 
 # Jekyll configuration
 
@@ -31,7 +31,6 @@ owner:
   bio: "Data enthusiast, Dada-Scientist, PhD Student at KTH Institute of Technology & Consultant for Graph-Technologies."
   decription: "10010000111000"
   email: roelof@kth.se
-  disqus-shortname: graphific
   twitter: graphific
   facebook: #username
   google:
