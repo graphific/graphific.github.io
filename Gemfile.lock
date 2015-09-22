@@ -9,6 +9,7 @@ GEM
     coffee-script (2.3.0)
       coffee-script-source
       execjs
+    coffee-script-source (1.9.1)
     colorator (0.1)
     execjs (2.3.0)
     fast-stemmer (1.0.2)
@@ -89,4 +90,3 @@ DEPENDENCIES
   jekyll
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
-  sass

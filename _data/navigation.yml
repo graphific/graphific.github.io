@@ -1,7 +1,16 @@
-# Menu navigation links
+# Site navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: About
+  url: /about/
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Posts
+  url: /posts/
+
+- title: GitXiv
+  url: http://gitxiv.com
+
+- title: r/machinelearning
+  url: http://www.reddit.com/r/machinelearning
+
+- title: Deep Learning Meetup Stockholm
+  url: http://www.meetup.com/Stockholm-Deep-Learning-Meetup
