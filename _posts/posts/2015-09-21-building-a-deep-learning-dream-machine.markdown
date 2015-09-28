@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Deep Learning (Dream) Machine"
+title: "I: Building a Deep Learning (Dream) Machine"
 modified:
 categories: posts
 excerpt: Some pointers on the slippery path towards building your own machine for Deep Learning
