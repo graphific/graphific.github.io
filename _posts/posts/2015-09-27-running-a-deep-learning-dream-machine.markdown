@@ -66,6 +66,9 @@ Ready? The script below will install Theano, Torch, Caffe, Digits, Lasagne and K
 
 {% gist graphific/f211174ebffb1f874f6d %}
 
+
+## Where to go from here? Resources and Links
+
 If you managed to come this far, congratulations! It's time to play! There are many tutorials, seminars, articles, and web pages out there to get you started with Deep Learning. Some links below to get you on your way:
 
 * The single best resource is <a href="http://deeplearning.net/">deeplearning.net</a>, especially the <a href="http://deeplearning.net/tutorial/">tutorial</a> section. (On a side note: if you're really into Deep Learning and want to do a PhD, there's a great <a href="http://deeplearning.net/deep-learning-research-groups-and-labs/">deep learning research groups and labs</a> as well);
